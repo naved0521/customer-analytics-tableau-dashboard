@@ -11,8 +11,8 @@ The goal of this dashboard is to provide actionable business intelligence for ta
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard Part 1](images/SS_01.png)
-![Dashboard Part 2](images/SS_02.png)
+![Dashboard Part 1](SS_01.png)
+![Dashboard Part 2](SS_02.png)
 
 ---
 
